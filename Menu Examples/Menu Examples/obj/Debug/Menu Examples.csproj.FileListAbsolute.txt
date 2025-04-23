@@ -1,0 +1,14 @@
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\bin\Debug\Menu Examples.exe.config
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\bin\Debug\Menu Examples.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\bin\Debug\Menu Examples.pdb
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu Examples.csprojResolveAssemblyReference.cache
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\MainWindow.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\App.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu Examples_MarkupCompile.cache
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu Examples_MarkupCompile.lref
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\MainWindow.baml
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu Examples.g.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu_Examples.Properties.Resources.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu Examples.csproj.GenerateResource.Cache
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu Examples.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Menu Examples\Menu Examples\obj\Debug\Menu Examples.pdb
