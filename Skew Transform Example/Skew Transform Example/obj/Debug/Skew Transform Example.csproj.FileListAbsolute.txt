@@ -1,0 +1,14 @@
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\bin\Debug\Skew Transform Example.exe.config
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\bin\Debug\Skew Transform Example.exe
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\bin\Debug\Skew Transform Example.pdb
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew Transform Example.csprojResolveAssemblyReference.cache
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\MainWindow.g.cs
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\App.g.cs
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew Transform Example_MarkupCompile.cache
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew Transform Example_MarkupCompile.lref
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\MainWindow.baml
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew Transform Example.g.resources
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew_Transform_Example.Properties.Resources.resources
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew Transform Example.csproj.GenerateResource.Cache
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew Transform Example.exe
+c:\users\mlong\documents\visual studio 2015\Projects\Skew Transform Example\Skew Transform Example\obj\Debug\Skew Transform Example.pdb
