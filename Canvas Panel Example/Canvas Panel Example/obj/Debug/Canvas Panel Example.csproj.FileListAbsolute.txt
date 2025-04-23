@@ -1,0 +1,14 @@
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\bin\Debug\Canvas Panel Example.exe.config
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\bin\Debug\Canvas Panel Example.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\bin\Debug\Canvas Panel Example.pdb
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas Panel Example.csprojResolveAssemblyReference.cache
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\MainWindow.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\App.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas Panel Example_MarkupCompile.cache
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas Panel Example_MarkupCompile.lref
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\MainWindow.baml
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas Panel Example.g.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas_Panel_Example.Properties.Resources.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas Panel Example.csproj.GenerateResource.Cache
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas Panel Example.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Canvas Panel Example\Canvas Panel Example\obj\Debug\Canvas Panel Example.pdb
