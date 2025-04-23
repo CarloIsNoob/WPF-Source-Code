@@ -1,0 +1,14 @@
+c:\users\mark long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\bin\Debug\CheckBox Example.exe.config
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\bin\Debug\CheckBox Example.exe
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\bin\Debug\CheckBox Example.pdb
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox Example.csprojResolveAssemblyReference.cache
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\MainWindow.g.cs
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\App.g.cs
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox Example_MarkupCompile.cache
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox Example_MarkupCompile.lref
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\MainWindow.baml
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox Example.g.resources
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox_Example.Properties.Resources.resources
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox Example.csproj.GenerateResource.Cache
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox Example.exe
+C:\Users\Mark Long\documents\visual studio 2015\Projects\CheckBox Example\CheckBox Example\obj\Debug\CheckBox Example.pdb

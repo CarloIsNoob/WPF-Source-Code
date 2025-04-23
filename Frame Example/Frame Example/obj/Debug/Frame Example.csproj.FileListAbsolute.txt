@@ -1,0 +1,13 @@
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\bin\Debug\Frame Example.exe.config
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\bin\Debug\Frame Example.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\bin\Debug\Frame Example.pdb
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\MainWindow.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\App.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\Frame Example_MarkupCompile.cache
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\Frame Example_MarkupCompile.lref
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\MainWindow.baml
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\Frame Example.g.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\Frame_Example.Properties.Resources.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\Frame Example.csproj.GenerateResource.Cache
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\Frame Example.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Frame Example\Frame Example\obj\Debug\Frame Example.pdb

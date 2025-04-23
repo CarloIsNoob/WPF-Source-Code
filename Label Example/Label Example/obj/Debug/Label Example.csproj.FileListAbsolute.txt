@@ -1,0 +1,13 @@
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\bin\Debug\Label Example.exe.config
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\bin\Debug\Label Example.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\bin\Debug\Label Example.pdb
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\MainWindow.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\App.g.cs
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\Label Example_MarkupCompile.cache
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\Label Example_MarkupCompile.lref
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\MainWindow.baml
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\Label Example.g.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\Label_Example.Properties.Resources.resources
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\Label Example.csproj.GenerateResource.Cache
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\Label Example.exe
+c:\users\mark long\documents\visual studio 2015\Projects\Label Example\Label Example\obj\Debug\Label Example.pdb
